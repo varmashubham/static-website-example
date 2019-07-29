@@ -13,5 +13,5 @@ artifacts:
      files:
       - index.html      
      discard-paths: yes  
-     base-directory: ''
+     #base-directory: ''
       
