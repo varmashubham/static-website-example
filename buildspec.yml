@@ -10,10 +10,8 @@ phases:
       - echo Build started on `date`      
       
 artifacts:
-     #encryptionDisabled: true
      files:
-      - index.html      
-     #discard-paths: yes  
-     #base-directory: '/'
+      - **/*      
+
      
       
